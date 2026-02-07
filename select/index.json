@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "Girl is Ghost",
+  "base_artist": "SCANDAL",
+  "createdAt": "2026-02-07T12:39:49.811487Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "A Pretty Girl Is Like",
+      "artist": "The Magnetic Fields",
+      "has_synced": true,
+      "path": "select/01_A_Pretty_Girl_Is_Like_The_Magnetic_Fields.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Girl Is Mine",
+      "artist": "Michael Jackson feat. Paul McCartney",
+      "has_synced": true,
+      "path": "select/02_The_Girl_Is_Mine_Michael_Jackson_feat._Paul_McCartney.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Girl Is Mine (Feat. Paul McCartney)",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/03_Girl_Is_Mine_(Feat._Paul_McCartney)_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Girl Is Mine",
+      "artist": "Paul McCartney & Michael Jackson",
+      "has_synced": true,
+      "path": "select/04_The_Girl_Is_Mine_Paul_McCartney_&_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Michael Jackson; Paul McCartney \u0000 The Girl Is Mine",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/05_Michael_Jackson;_Paul_McCartney_\u0000_The_Girl_Is_Mine_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Girl Is Gone",
+      "artist": "Mystery Jets",
+      "has_synced": true,
+      "path": "select/06_The_Girl_Is_Gone_Mystery_Jets.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Girl Is Mine (with Paul McCartney)",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/07_The_Girl_Is_Mine_(with_Paul_McCartney)_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Girl Is Mine",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/08_The_Girl_Is_Mine_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Girl Is Mine (2008 with will.i.am) (with will.i.am) - Thriller 25th Anniversary Remix",
+      "artist": "Michael Jackson feat. will.i.am",
+      "has_synced": true,
+      "path": "select/09_The_Girl_Is_Mine_(2008_with_will.i.am)_(with_will.i.am)_-_Thriller_25th_Annivers_Michael_Jackson_feat._will.i.am.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Girl Is On My Mind",
+      "artist": "The Black Keys",
+      "has_synced": false,
+      "path": "select/10_Girl_Is_On_My_Mind_The_Black_Keys.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Girl is a Gun",
+      "artist": "Halsey",
+      "has_synced": true,
+      "path": "select/11_Girl_is_a_Gun_Halsey.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "My Girl Is Calling Me (A Liar)",
+      "artist": "Chromeo",
+      "has_synced": false,
+      "path": "select/12_My_Girl_Is_Calling_Me_(A_Liar)_Chromeo.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Every Hot Girl Is a Rockstar",
+      "artist": "Paul Gilbert",
+      "has_synced": true,
+      "path": "select/13_Every_Hot_Girl_Is_a_Rockstar_Paul_Gilbert.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Girl Is Mine",
+      "artist": "Michael Jackson & Paul McCartney",
+      "has_synced": true,
+      "path": "select/14_The_Girl_Is_Mine_Michael_Jackson_&_Paul_McCartney.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Girl Is Mine (with Paul McCartney)",
+      "artist": "Michael Jackson feat. Paul McCartney",
+      "has_synced": true,
+      "path": "select/15_The_Girl_Is_Mine_(with_Paul_McCartney)_Michael_Jackson_feat._Paul_McCartney.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "The Girl Is Mine (Album Version)",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/16_The_Girl_Is_Mine_(Album_Version)_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "The Girl Is Mine 2008",
+      "artist": "Michael Jackson feat. will.i.am",
+      "has_synced": true,
+      "path": "select/17_The_Girl_Is_Mine_2008_Michael_Jackson_feat._will.i.am.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "The Girl Is Mine 2008 (Thriller 25th Anniversary remix)",
+      "artist": "Michael Jackson feat․ will․i․am",
+      "has_synced": true,
+      "path": "select/18_The_Girl_Is_Mine_2008_(Thriller_25th_Anniversary_remix)_Michael_Jackson_feat._will.i.am.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "that girl is my world (you transphobic piece of shit)",
+      "artist": "recovery girl feat. galen tipton",
+      "has_synced": false,
+      "path": "select/19_that_girl_is_my_world_(you_transphobic_piece_of_shit)_recovery_girl_feat._galen_tipton.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "that girl is my world (you transphobic piece of shit)",
+      "artist": "recovery girl",
+      "has_synced": false,
+      "path": "select/20_that_girl_is_my_world_(you_transphobic_piece_of_shit)_recovery_girl.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "GIRLism",
+      "artist": "SCANDAL",
+      "has_synced": false,
+      "path": "select/pl_01_GIRLism_SCANDAL.txt"
+    }
+  ]
+}
